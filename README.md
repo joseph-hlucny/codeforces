@@ -1,4 +1,5 @@
 # codeforces
 All my codeforces related files.
 
-I will try using C++ and/or Java for codeforces, as the problems are so performance dependent.
+I will primarily use C++ for codeforces solutions, but may also use Python or
+Java from time to time.
